@@ -53,7 +53,7 @@ function navBar() {
       <div className="flex items-center gap-3">
         <User />
         <div className="text-white flex gap-2 items-center">
-          <p className="text-xs font-semibold">Joshua</p>
+          <p className="text-xs font-semibold">Beta</p>
           <Down size={11} color="white" />
         </div>
       </div>

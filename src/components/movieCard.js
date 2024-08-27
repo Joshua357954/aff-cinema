@@ -27,6 +27,7 @@ function MovieCard({
           alt={alt}
           className={`block rounded-md ${imageClasses}`}
         />
+        
         <div className="absolute inset-0 rounded-md flex items-center justify-center bg-black bg-opacity-50 opacity-0 hover:opacity-100 transition-opacity duration-300">
           <div className="bg-copper w-14 h-14 pl-1 rounded-full flex justify-center items-center">
             <Play color="white" size={playIconSize} />
